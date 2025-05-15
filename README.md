@@ -91,18 +91,4 @@ Despite using sophisticated machine learning models and thorough feature enginee
 
 ---
 
-## Resources
 
-- **Dataset**: Tesla Stock OHLC data from 2010 to 2017  
-- **Colab Notebook**: [Link to Notebook]  
-- **Dataset Link**: [Link to Dataset]  
-
----
-
-## Acknowledgements
-
-This project and its insights were developed and refined by Susobhan Akhuli, with modifications and enhancements to explore the feasibility of using ML in stock prediction.
-
----
-
-**Note**: Stock prediction is inherently risky and should be approached carefully. This project is intended for educational purposes and does not constitute financial advice.
