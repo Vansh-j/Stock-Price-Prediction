@@ -1,7 +1,5 @@
 # Stock Price Prediction using Machine Learning in Python
 
-## Last Updated: 16 Sep, 2024
-
 ## Overview
 
 This project explores how machine learning can be used to predict stock trading signals — essentially determining whether buying a particular stock will be profitable. While stock price prediction remains a challenging task due to market volatility and numerous influencing factors, the goal here is to use available data to model short-term price movements for Tesla Inc. stock.
